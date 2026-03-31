@@ -1,6 +1,6 @@
 ---
 
-## Challenge Advisor: Update & Finalize Your Project Overview
+> ## Challenge Advisor: Update & Finalize Your Project Overview
 >
 > > 💡 **These grey text instructions are just for you, the team's Challenge Advisor; please delete them once you have completed the steps below.**
 >
