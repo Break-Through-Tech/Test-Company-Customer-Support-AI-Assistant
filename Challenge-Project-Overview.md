@@ -22,21 +22,19 @@
 > - [Feedback item #1]
 > - [Feedback item #2]
 > - [Feedback item #3]
->
-> ---
->
+
 
 ---
 
-# [Project Title]
+# Customer Support AI Assistant
 
-**Company / Org:** [Company / Org Name]  
-**Challenge Advisor:** [Name, Title, Email]  
+**Company / Org:** Break Through Tech - Test  
+**Challenge Advisor:** Hari Raghavan, Director of Experiential Learning, hr292@cornell.edu  
 **Program:** Break Through Tech AI Studio - Fall 2026
 
 ---
 
-## 🏢 About [Company / Org Name]
+## 🏢 About Break Through Tech - Test
 
 [2-3 sentences about your company: what you do, your industry, etc. You may also choose to specify your specific department or team.]
 
@@ -45,11 +43,11 @@
 ## 🎯 The Challenge
 
 ### Project Summary
-[In 2-3 sentences, describe what you're asking the team to do. Be specific about the type of data, ML techniques, and potential impact.]
 
-> **Example:** "In this project, your team will use customer transaction data and classification algorithms to build a model that predicts which users are likely to churn. This will help our retention team prioritize outreach."
+In this project, your team will use customer support ticket data and natural language processing and large language models to build an intelligent chatbot that can answer customer questions. This will help our company address the high volume of repetitive customer inquiries.
 
 ### Success Criteria
+
 [What does success look like? Describe evaluation metrics (accuracy, F1 score, etc.) or qualitative outcomes that would make this project valuable to your company.]
 
 ### Project Milestones
@@ -58,9 +56,9 @@ Use these milestones to guide your work. Your team will create a **GitHub Projec
 
 | Month | Milestone | Key Activities |
 |-------|-----------|----------------|
-| **September** | [e.g., Data Understanding] | [e.g., Explore dataset, handle missing values, document findings] |
-| **October** | [e.g., Model Development] | [e.g., Train baseline model, experiment with approaches, iterate] |
-| **November** | [e.g., Evaluation & Presentation] | [e.g., Finalize model, prepare presentation, document results] |
+| **September** | Explore the data and get familiar with it | [Please expand with specific deliverables] |
+| **October** | Build the model | [Please expand with specific deliverables] |
+| **November** | Test and improve the model | [Please expand with specific deliverables] |
 
 > **Note for the team:** Please create a GitHub Projects board in this repository to break these milestones into weekly tasks. Go to the **Projects** tab → **New project** → Choose **Board** → Add columns for each month.
 
@@ -68,27 +66,28 @@ Use these milestones to guide your work. Your team will create a **GitHub Projec
 
 ## 📊 Dataset
 
-**Name and Source:** [Dataset name and where it's from]  
-**Format:** [e.g., CSV, JSON, images]  
-**Size:** [Approximate size in MB/GB]  
-**Location:** [Link to dataset or instructions for accessing it]
+**Name and Source:** Customer support ticket data (provided by organization)  
+**Format:** CSV / TSV  
+**Size:** Greater than 1 GB and less than 5 GB  
+**Location:** [Dataset not yet available — Challenge Advisor to upload to data folder]
 
 ### Key Details
-- [Brief description of what's in the data]
-- [Any known limitations or preprocessing needed]
-- [Link to data dictionary or documentation, if available]
+
+- Data includes categorical and text data
+- Partial documentation exists — full data dictionary needed
+- Dataset will require some cleaning / preprocessing
 
 ---
 
 ## 🛠️ Suggested Approach
 
-**ML Problem Type:** [e.g., Classification, Regression, NLP, Computer Vision, LLM/RAG]
+**ML Problem Type:** Natural Language Processing (NLP), Large Language Models (LLMs) / Generative AI
 
 **Recommended Libraries:**
 - [e.g., pandas, scikit-learn, TensorFlow, Hugging Face]
 
 **Evaluation Metrics:**
-- [e.g., Accuracy, Precision/Recall, RMSE, BLEU score]
+- [Please specify — e.g., retrieval precision/recall, response accuracy, BLEU score]
 
 ---
 
@@ -119,7 +118,7 @@ The following resources will help your team understand the problem space and pot
 
 **Check-ins:** During our biweekly 60-min AI Studio Lab Section meeting block (2nd and 4th week of every month)  
 **Communication:** [e.g., Slack (Break Through Tech workspace) or email]  
-**Response time:** [e.g., Within 48 hours on weekdays]  
+**Response time:** [e.g., Within 48 hours on weekdays]
 
 **Recommended Tools:**
 - **Coding:** [e.g., Google Colab, VS Code]
@@ -134,10 +133,10 @@ The following resources will help your team understand the problem space and pot
 2. **Begin reviewing the dataset** using the link above
 3. **Set up your GitHub Projects board** with the milestones listed above
 
-I’m excited to work with you!
+I'm excited to work with you!
 
 ---
 
 ## ❓ Questions?
 
-Please bring any questions to our first meeting during the week of August 24th (Break Through Tech’s Bridge to Studio - Session B). 
+Please bring any questions to our first meeting during the week of August 24th (Break Through Tech's Bridge to Studio - Session B).
